@@ -1,0 +1,7 @@
+ID,Temp,Days.Exposed,Offspring,Death,Prop.Dead,Stage,Heatwave
+1,42,5D,4,0,0,Larvae,Long
+2,42,3D,3,0,0,Larvae,Long
+3,42,1D,155,6,0.04,Larvae,Long
+4,42,1D,155,10,0.06,Pupae,Long
+5,30,5D,263,1,0.003802281,Larvae,Long
+6,30,5D,263,1,0.003802281,Pupae,Long
